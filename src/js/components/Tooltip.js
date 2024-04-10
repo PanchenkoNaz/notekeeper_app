@@ -1,5 +1,5 @@
 /**
- * @copyright codewithsadee 2023
+ * @copyright nazarpanchenko 2024
  */
 
 'use strict';
